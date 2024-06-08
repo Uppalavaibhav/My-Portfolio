@@ -1,0 +1,31 @@
+a{
+    text-decoration:none;
+    color:red;
+    }
+   
+   .container .row2{
+     background-image:url(images/im1.jpg); 
+     background-repeat:none;
+     width:100%;
+     text-align:center;
+     padding-top:320px;
+     padding-left:500px;
+     height:800px;
+  }
+   
+  ul li{
+     margin-left:40px;
+  }
+  ul{
+    margin-left:250px;
+  }
+  .bg{
+  background-color:lightblue;
+  
+  }
+  .ar{
+  color:white;
+  }
+  .my{
+  color:white;
+  }
